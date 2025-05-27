@@ -4,46 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Book Review API</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 2rem;
-      background: #fff;
-      box-shadow: 0 0 20px rgba(0,0,0,0.1);
-      border-radius: 10px;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eaeaea;
-      padding: 0.2em 0.4em;
-      border-radius: 5px;
-      font-size: 0.95em;
-    }
-    pre {
-      background: #2c3e50;
-      color: #ecf0f1;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .badge {
-      background: #3498db;
-      color: white;
-      padding: 0.2rem 0.5rem;
-      border-radius: 5px;
-      font-size: 0.8rem;
-    }
-  </style>
+
 </head>
 <body>
 
